@@ -5,6 +5,8 @@ Ini adalah sebuah aplikasi Python Command-Line Interface (CLI) untuk merekod dan
 ## Ciri-ciri
 - Tambah rekod perbelanjaan berserta jumlah, kategori, dan penerangan.
 - Lihat senarai perbelanjaan dalam bentuk jadual yang interaktif.
+- Lihat ringkasan keseluruhan berdasarkan kategori (peratusan dan jumlah).
+- Padam rekod perbelanjaan jika tersalah isi.
 - Pengiraan jumlah keseluruhan semua perbelanjaan secara automatik.
 - Data disimpan secara kekal (persisten) di dalam fail `expenses.json`.
 
